@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
 </head>
 <body>
@@ -35,7 +33,7 @@
       </ul>
     </main>
     <footer>
-        <p>&copy; 2024 Dewald Oosthuizen. All rights reserved.</p>
+        <p>&copy; 2024 Dewald Oosthuizen 38336529. All rights reserved.</p>
     </footer>
 </body>
 </html>
